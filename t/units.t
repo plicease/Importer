@@ -1,5 +1,6 @@
 use strict;
 use warnings;
+no feature 'signatures';
 
 use Importer 'Test::More';
 
